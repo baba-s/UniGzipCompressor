@@ -1,6 +1,6 @@
 # Uni Gzip Compressor
 
-* gzip で文字列を圧縮する機能
+gzip で文字列を圧縮する機能
 
 ## 使用例
 

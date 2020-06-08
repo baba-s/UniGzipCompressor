@@ -1,11 +1,11 @@
-# Uni Gzip Compressor
+﻿# Uni Gzip Compressor
 
 * gzip で文字列を圧縮する機能
 
 ## 使用例
 
 ```cs
-using UniGzipCompressor;
+using Kogane;
 using UnityEngine;
 
 public class Example : MonoBehaviour

@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text;
 
-namespace UniGzipCompressor
+namespace Kogane
 {
 	/// <summary>
 	/// gzip で文字列の圧縮や解凍を行うクラス
